@@ -5,7 +5,7 @@ import {
   Feedback,
   GetStarted,
   Hero,
-  Insights,
+  InsightsSection,
   WhatsNew,
   World,
 } from '../sections';
@@ -22,7 +22,7 @@ const Page = () => (
     <GetStarted />
     <WhatsNew />
     <World />
-    <Insights />
+    <InsightsSection />
     <Feedback />
     <Footer />
   </div>
